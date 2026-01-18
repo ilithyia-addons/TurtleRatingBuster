@@ -1,8 +1,7 @@
 # TurtleRatingBuster 🐢
 
-This is a fork of Vanilla Rating Buster specifically adapted for Turtle WoW.
-
-TurtleRatingBuster calculates ratings for various specs and classes based on stat weights defined by the community. 
+TurtleRatingBuster calculates ratings for various specs and classes based on stat weights defined by the community.
+It is heavily inspired by VanillaRatingBuster, and I would like to thank the original authors to have created it.
 
 ## How to install
 
